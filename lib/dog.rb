@@ -4,6 +4,8 @@ class Dog
     "Woof!"
   end
 
-  def sit 
+  def sit
     "The Dog is sitting."
-end 
+  end
+  
+end
